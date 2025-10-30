@@ -1,0 +1,1 @@
+Conflicto en src/index.html resuelto dejando el título: Lista de Productos Frescos.
