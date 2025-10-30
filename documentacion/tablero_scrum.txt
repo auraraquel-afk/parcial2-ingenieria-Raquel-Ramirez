@@ -1,0 +1,5 @@
+
+To Do           | In Progress           | Done
+------------------------------------------------------------
+Diseñar interfaz| Implementar filtrado  | Crear archivo backlog
+Conectar datos  | Pruebas funcionalidad | Configurar proyecto

@@ -1,0 +1,16 @@
+
+Objetivo del Sprint:
+Implementar la funcionalidad para visualizar y filtrar productos en la aplicación EcoMarket.
+
+Historias seleccionadas:
+- Historia 1: Visualizar lista de productos.
+- Historia 2: Filtrar productos por categoría.
+
+Tareas:
+- Crear diseño de la lista de productos.
+- Implementar componente de filtrado.
+- Conectar datos simulados.
+- Pruebas de funcionalidad.
+
+Duración estimada:
+7 días.

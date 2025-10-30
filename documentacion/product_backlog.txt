@@ -1,0 +1,27 @@
+
+Historia 1:
+Como comprador, quiero visualizar una lista de productos disponibles con su nombre, precio y categoría, para poder elegir fácilmente qué comprar.
+Criterios de aceptación:
+- La lista debe mostrar nombre, precio y categoría.
+- Debe ser visible en la página principal.
+Prioridad: Alta
+
+Historia 2:
+Como comprador, quiero filtrar productos por categoría, para encontrar más rápido lo que necesito.
+Criterios de aceptación:
+- Debe existir un menú de categorías.
+- Al seleccionar una categoría, la lista se actualiza.
+Prioridad: Alta
+
+Historia 3:
+Como comprador, quiero ver imágenes de los productos, para tener una mejor referencia visual.
+Criterios de aceptación:
+- Cada producto debe mostrar una imagen clara.
+- Las imágenes deben cargarse rápido.
+Prioridad: Media
+
+Historia 4:
+Como comprador, quiero ordenar los productos por precio, para elegir según mi presupuesto.
+Criterios de aceptación:
+- Debe haber opción de ordenar ascendente y descendente.
+Prioridad: Baja

@@ -1,0 +1,6 @@
+
+Rol:
+Cumplí el rol de Desarrollador Frontend. Me encargué de diseñar la interfaz y desarrollar la funcionalidad para mostrar la lista de productos y aplicar filtros.
+
+Reflexión:
+SCRUM ayuda a mejorar la organización del proyecto mediante la división en sprints, lo que permite priorizar tareas y entregar valor de forma incremental. Además, facilita la comunicación y adaptación a cambios.
