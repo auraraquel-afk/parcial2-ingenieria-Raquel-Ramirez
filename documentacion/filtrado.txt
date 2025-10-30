@@ -1,0 +1,3 @@
+Propuesta: Implementar un filtro por categor¡a usando JavaScript. 
+- Agregar un input select con categor¡as. 
+- Filtrar la tabla din micamente. 
